@@ -1,0 +1,100 @@
+1)The Shawshank Redemption
+2)The Godfather
+3)The Godfather: Part II
+4)The Dark Knight
+5)12 Angry Men
+6)Schindler's List
+7)The Lord of the Rings: The Return of the King
+8)Pulp Fiction
+9)The Good, the Bad and the Ugly
+10)Fight Club
+11)Joker
+12)The Lord of the Rings: The Fellowship of the Ring
+13)Forrest Gump
+14)Inception
+15)Star Wars: Episode V - The Empire Strikes Back
+16)The Lord of the Rings: The Two Towers
+17)The Matrix
+18)One Flew Over the Cuckoo's Nest
+19)Goodfellas
+20)Seven Samurai
+21)Se7en
+22)City of God
+23)Life Is Beautiful
+24)The Silence of the Lambs
+25)Star Wars: Episode IV - A New Hope
+26)It's a Wonderful Life
+27)Saving Private Ryan
+28)Spirited Away
+29)The Green Mile
+30)Léon: The Professional
+31)Hara-Kiri
+32)Interstellar
+33)The Usual Suspects
+34)The Lion King
+35)American History X
+36)Back to the Future
+37)The Pianist
+38)Modern Times
+39)Terminator 2: Judgment Day
+40)The Intouchables
+41)Psycho
+42)Gladiator
+43)City Lights
+44)The Departed
+45)Whiplash
+46)Once Upon a Time in the West
+47)The Prestige
+48)Avengers: Endgame
+49)Casablanca
+50)Grave of the Fireflies
+51)Rear Window
+52)Cinema Paradiso
+53)Alien
+54)Indiana Jones and the Raiders of the Lost Ark
+55)Memento
+56)Apocalypse Now
+57)The Great Dictator
+58)The Lives of Others
+59)Avengers: Infinity War
+60)Django Unchained
+61)Spider-Man: Into the Spider-Verse
+62)The Shining
+63)Paths of Glory
+64)WALL·E
+65)Sunset Blvd.
+66)Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+67)Princess Mononoke
+68)Oldboy
+69)Witness for the Prosecution
+70)The Dark Knight Rises
+71)Once Upon a Time in America
+72)Parasite
+73)Aliens
+74)American Beauty
+75)Coco
+76)Your Name.
+77)Braveheart
+78)Das Boot
+79)3 Idiots
+80)Like Stars on Earth
+81)Star Wars: Episode VI - Return of the Jedi
+82)Toy Story
+83)Reservoir Dogs
+84)Amadeus
+85)Dangal
+86)Good Will Hunting
+87)Inglourious Basterds
+88)M
+89)Requiem for a Dream
+90)2001: A Space Odyssey
+91)Vertigo
+92)Eternal Sunshine of the Spotless Mind
+93)Citizen Kane
+94)Full Metal Jacket
+95)The Hunt
+96)North by Northwest
+97)A Clockwork Orange
+98)Snatch
+99)Amélie
+100)The Kid
